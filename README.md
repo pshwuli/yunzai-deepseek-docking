@@ -29,7 +29,7 @@
    ```bash  
    pnpm add openai oicq -w  
    ```  
-4. 启动 **TRSS-Yunzai** 并配置 **NapCatQQ** 作为 QQ 机器人框架。  
+4. 启动 **TRSS-Yunzai** 并配置 **NapCatQQ**  
 5. 按照下文配置相关 API 和参数即可使用。  
 
 ## 使用方法  
